@@ -1482,3 +1482,941 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2025.02.20-18.31.31:459][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.02.20-18.31.31:461][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
 [2025.02.20-18.31.31:554][279]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.02.20-18.36.12:969][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.02.20-18.36.12:970][401]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/main' took 0.016
+[2025.02.20-18.36.12:972][401]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Character] ([2] browsable assets)...
+[2025.02.20-18.36.12:973][401]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2025.02.20-18.36.13:096][401]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/BP_Character.BP_Character_C]
+[2025.02.20-18.36.13:120][401]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Character.BP_Character]
+[2025.02.20-18.36.13:120][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Character]
+[2025.02.20-18.36.13:145][401]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Character_Auto1
+[2025.02.20-18.36.13:145][401]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/BP_Character_Auto18F8FBF944CECB51A97B848B06F63055F.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/Autosaves/Game/BP_Character_Auto1.uasset'
+[2025.02.20-18.36.13:149][401]LogFileHelpers: Auto-saving content packages took 0.178
+[2025.02.20-18.36.26:578][442]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 674.723022
+[2025.02.20-18.36.27:577][445]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-18.36.27:577][445]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 675.388916, Update Interval: 353.061920
+[2025.02.20-18.42.28:196][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1036.343750
+[2025.02.20-18.42.29:196][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-18.42.29:196][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1037.010376, Update Interval: 332.013306
+[2025.02.20-18.48.15:251][598]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1383.400635
+[2025.02.20-18.48.16:253][601]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-18.48.16:253][601]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1384.068481, Update Interval: 358.628510
+[2025.02.20-18.53.41:434][619]LogStreaming: Display: FlushAsyncLoading(544): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.20-18.53.41:503][619]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/f.simonian/Downloads/Walking (1).fbx]
+[2025.02.20-18.53.44:896][619]LogSlate: Window 'Import Content' being destroyed
+[2025.02.20-18.53.44:938][619]LogInterchangeEngine: [Pending] Importing
+[2025.02.20-18.53.45:318][622]LogStreaming: Display: FlushAsyncLoading(549): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.20-18.53.45:441][624]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Walking__1_.Walking__1_ (Required Memory Estimate: 0.31 MB)
+[2025.02.20-18.53.45:454][624]LogAnimationCompression: Display: Storing compressed animation data for /Game/Walking__1_.Walking__1_, at AnimationSequence/f3ef32d96207a6012fab5ef92ad7cd414903c0be
+[2025.02.20-18.53.45:547][624]LogInterchangeEngine: Display: Interchange import completed [C:/Users/f.simonian/Downloads/Walking (1).fbx]
+[2025.02.20-18.53.45:704][624]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.02.20-18.53.45:704][624]LogInterchangeEngine: [Success] Import Done
+[2025.02.20-18.53.52:959][353]LogStreaming: Display: FlushAsyncLoading(550): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.20-18.53.53:046][353]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Walking.Walking
+[2025.02.20-18.53.53:047][353]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Walking.Walking
+[2025.02.20-18.53.53:053][353]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/T-Pose__1_.T-Pose__1_ as actor: SkeletalMeshActor /Game/main.main:PersistentLevel.SkeletalMeshActor_0
+[2025.02.20-18.53.53:077][353]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/T-Pose__1_.T-Pose__1_ as actor: SkeletalMeshActor /Game/main.main:PersistentLevel.SkeletalMeshActor_0
+[2025.02.20-18.53.53:743][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.02.20-18.53.53:749][405]LogEditorActor: Deleted 0 Actors (0.085 secs)
+[2025.02.20-18.53.53:760][405]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Walking.Walking
+[2025.02.20-18.53.53:760][405]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Walking.Walking
+[2025.02.20-18.53.53:773][405]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/T-Pose__1_.T-Pose__1_ as actor: SkeletalMeshActor /Game/main.main:PersistentLevel.SkeletalMeshActor_1
+[2025.02.20-18.53.53:774][405]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/T-Pose__1_.T-Pose__1_ as actor: SkeletalMeshActor /Game/main.main:PersistentLevel.SkeletalMeshActor_1
+[2025.02.20-18.53.55:076][517]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.20-18.53.58:225][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.02.20-18.53.59:553][808]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.20-18.53.59:581][808]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Walking__1_.Walking__1_
+	Asset Type: AnimSequence
+[2025.02.20-18.54.00:025][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.02.20-18.54.00:043][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.02.20-18.54.00:056][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.02.20-18.54.10:153][ 62]LogChaosDD: Creating Chaos Debug Draw Scene for world World_11
+[2025.02.20-18.54.46:274][597]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1774.422607
+[2025.02.20-18.54.47:340][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.02.20-18.54.47:359][600]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/main_Auto2
+[2025.02.20-18.54.47:359][600]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/main_Auto2DED3CE95492512F19C79C3B9F6D42A1D.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/Autosaves/Game/main_Auto2.umap'
+[2025.02.20-18.54.47:366][600]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/main' took 0.041
+[2025.02.20-18.54.47:366][600]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2025.02.20-18.54.47:410][600]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-18.54.47:410][600]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1775.089478, Update Interval: 301.268951
+[2025.02.20-18.57.54:747][741]LogSlate: Took 0.003127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.20-18.57.57:331][741]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2025.02.20-18.57.57:347][741]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2025.02.20-18.57.57:389][741]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2025.02.20-18.57.57:426][742]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2025.02.20-18.58.12:391][871]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_Character
+[2025.02.20-18.58.12:460][871]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2025.02.20-18.58.12:462][871]LogChaosDD: Creating Chaos Debug Draw Scene for world World_12
+[2025.02.20-19.00.26:925][522]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2115.072510
+[2025.02.20-19.00.27:926][525]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-19.00.27:926][525]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2115.739258, Update Interval: 341.112091
+[2025.02.20-19.01.08:506][650]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ABP_Character.ABP_Character
+[2025.02.20-19.01.08:510][650]LogChaosDD: Creating Chaos Debug Draw Scene for world World_13
+[2025.02.20-19.01.08:534][650]LogChaosDD: Creating Chaos Debug Draw Scene for world World_14
+[2025.02.20-19.01.08:555][650]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.02.20-19.01.09:099][650]LogChaosDD: Creating Chaos Debug Draw Scene for world World_15
+[2025.02.20-19.04.48:059][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.02.20-19.04.48:060][657]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/main' took 0.039
+[2025.02.20-19.04.48:061][657]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ABP_Character] ([2] browsable assets)...
+[2025.02.20-19.04.48:176][657]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_Character.ABP_Character]
+[2025.02.20-19.04.48:176][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_Character]
+[2025.02.20-19.04.48:185][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ABP_Character_Auto3
+[2025.02.20-19.04.48:185][657]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/ABP_Character_Auto30579438A4BC02DADAD1D9B8A14E8142A.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/Autosaves/Game/ABP_Character_Auto3.uasset'
+[2025.02.20-19.04.48:187][657]LogFileHelpers: Auto-saving content packages took 0.126
+[2025.02.20-19.06.53:330][ 33]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2501.480225
+[2025.02.20-19.06.54:330][ 36]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-19.06.54:330][ 36]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2502.146973, Update Interval: 316.681427
+[2025.02.20-19.09.40:127][470]LogSlate: Took 0.001464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.02.20-19.12.46:427][808]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2854.587646
+[2025.02.20-19.12.46:490][813]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-19.12.46:490][814]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2854.637207, Update Interval: 301.507019
+[2025.02.20-19.16.06:766][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.02.20-19.16.06:769][890]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/main' took 0.018
+[2025.02.20-19.16.06:770][890]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ABP_Character] ([2] browsable assets)...
+[2025.02.20-19.16.06:888][890]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_Character.ABP_Character]
+[2025.02.20-19.16.06:888][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_Character]
+[2025.02.20-19.16.06:894][890]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ABP_Character_Auto4
+[2025.02.20-19.16.06:894][890]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/ABP_Character_Auto41F40602D4CDFE466703C5D91F09012CF.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/Autosaves/Game/ABP_Character_Auto4.uasset'
+[2025.02.20-19.16.06:896][890]LogFileHelpers: Auto-saving content packages took 0.127
+[2025.02.20-19.18.44:194][ 35]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3212.361816
+[2025.02.20-19.18.44:282][ 41]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-19.18.44:282][ 41]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3212.434326, Update Interval: 313.420197
+[2025.02.20-19.24.44:143][964]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3572.312988
+[2025.02.20-19.24.44:218][969]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-19.24.44:218][969]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3572.369385, Update Interval: 312.446045
+[2025.02.20-19.24.44:800][ 10]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/T-Pose__1_.T-Pose__1_
+[2025.02.20-19.24.44:803][ 10]LogChaosDD: Creating Chaos Debug Draw Scene for world World_16
+[2025.02.20-19.24.44:843][ 10]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.02.20-19.24.45:157][ 10]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GM_ACNH.GM_ACNH
+[2025.02.20-19.24.45:157][ 10]LogChaosDD: Creating Chaos Debug Draw Scene for world World_17
+[2025.02.20-19.24.48:921][290]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-19.24.48:926][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-19.24.49:026][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.02.20-19.24.54:152][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-19.24.54:217][537]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ABP_Character] ([2] browsable assets)...
+[2025.02.20-19.24.54:224][537]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_Character.ABP_Character]
+[2025.02.20-19.24.54:224][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_Character]
+[2025.02.20-19.24.54:224][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Character" FILE="../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset" SILENT=true
+[2025.02.20-19.24.54:234][537]LogSavePackage: Moving output files for package: /Game/ABP_Character
+[2025.02.20-19.24.54:234][537]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/ABP_Character87CB79AD4CC9DA0092EF7383CB4EADF6.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset'
+[2025.02.20-19.24.54:259][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.278 ms
+[2025.02.20-19.24.54:305][537]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-19.24.54:305][537]LogContentValidation: Enabled validators:
+[2025.02.20-19.24.54:306][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-19.24.54:306][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-19.24.54:306][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-19.24.54:306][537]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-19.24.54:306][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-19.24.54:306][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-19.24.54:308][537]AssetCheck: /Game/ABP_Character Validating asset
+[2025.02.20-19.27.06:390][290]LogDerivedDataCache: C:/Users/f.simonian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.20-19.27.29:298][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.02.20-19.27.29:300][358]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/main' took 0.019
+[2025.02.20-19.27.29:301][358]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ABP_Character] ([2] browsable assets)...
+[2025.02.20-19.27.29:423][358]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_Character.ABP_Character]
+[2025.02.20-19.27.29:423][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_Character]
+[2025.02.20-19.27.29:429][358]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ABP_Character_Auto5
+[2025.02.20-19.27.29:429][358]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/ABP_Character_Auto5E6D409FF49D0DEE9E1990EAD37F05F85.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/Autosaves/Game/ABP_Character_Auto5.uasset'
+[2025.02.20-19.27.29:431][358]LogFileHelpers: Auto-saving content packages took 0.131
+[2025.02.20-19.28.59:631][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-19.28.59:691][905]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ABP_Character] ([2] browsable assets)...
+[2025.02.20-19.28.59:762][905]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_Character.ABP_Character]
+[2025.02.20-19.28.59:762][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_Character]
+[2025.02.20-19.28.59:762][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Character" FILE="../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset" SILENT=true
+[2025.02.20-19.28.59:767][905]LogSavePackage: Moving output files for package: /Game/ABP_Character
+[2025.02.20-19.28.59:768][905]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/ABP_Character4D2ADA6A4CCE170F23ECF397CA9D6081.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset'
+[2025.02.20-19.28.59:780][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.100 ms (total: 255.378 ms)
+[2025.02.20-19.28.59:842][905]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-19.28.59:842][905]LogContentValidation: Enabled validators:
+[2025.02.20-19.28.59:842][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-19.28.59:842][905]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-19.28.59:842][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-19.28.59:842][905]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-19.28.59:842][905]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-19.28.59:842][905]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-19.28.59:842][905]AssetCheck: /Game/ABP_Character Validating asset
+[2025.02.20-19.29.19:772][240]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] Entry node  New State Machine  is not connected to state
+[2025.02.20-19.29.19:773][240]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] There was no entry state connection in  New State Machine
+[2025.02.20-19.29.19:841][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.02.20-19.29.22:871][398]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] Entry node  New State Machine  is not connected to state
+[2025.02.20-19.29.22:872][398]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] There was no entry state connection in  New State Machine
+[2025.02.20-19.29.22:896][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.02.20-19.29.25:669][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-19.29.25:735][587]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ABP_Character] ([2] browsable assets)...
+[2025.02.20-19.29.25:749][587]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_Character.ABP_Character]
+[2025.02.20-19.29.25:749][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_Character]
+[2025.02.20-19.29.25:749][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Character" FILE="../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset" SILENT=true
+[2025.02.20-19.29.25:757][587]LogSavePackage: Moving output files for package: /Game/ABP_Character
+[2025.02.20-19.29.25:758][587]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/ABP_CharacterDA61BF3841EF415E0F66FF99A95CCCB0.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset'
+[2025.02.20-19.29.25:770][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.834 ms (total: 356.213 ms)
+[2025.02.20-19.29.25:830][587]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-19.29.25:830][587]LogContentValidation: Enabled validators:
+[2025.02.20-19.29.25:830][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-19.29.25:830][587]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-19.29.25:830][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-19.29.25:830][587]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-19.29.25:830][587]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-19.29.25:830][587]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-19.29.25:830][587]AssetCheck: /Game/ABP_Character Validating asset
+[2025.02.20-19.29.35:552][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-19.29.35:639][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main" FILE="../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.20-19.29.35:679][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.02.20-19.29.35:703][347]LogSavePackage: Moving output files for package: /Game/main
+[2025.02.20-19.29.35:704][347]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/mainBD678EDB460A7C15FA16ADA427818BA9.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/main.umap'
+[2025.02.20-19.29.35:733][347]LogFileHelpers: Saving map 'main' took 0.098
+[2025.02.20-19.29.35:742][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 189.779 ms (total: 545.992 ms)
+[2025.02.20-19.29.35:811][347]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-19.29.35:811][347]LogContentValidation: Enabled validators:
+[2025.02.20-19.29.35:811][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-19.29.35:811][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-19.29.35:812][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-19.29.35:812][347]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-19.29.35:812][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-19.29.35:812][347]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-19.29.35:812][347]AssetCheck: /Game/main Validating asset
+[2025.02.20-19.29.38:647][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-19.29.38:707][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ABP_Character] ([2] browsable assets)...
+[2025.02.20-19.29.38:707][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_Character]
+[2025.02.20-19.29.38:707][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Character" FILE="../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset" SILENT=true
+[2025.02.20-19.29.38:713][553]LogSavePackage: Moving output files for package: /Game/ABP_Character
+[2025.02.20-19.29.38:714][553]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/ABP_Character068C2A4047483029CA33A097A6C63CFE.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset'
+[2025.02.20-19.29.38:726][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.485 ms (total: 625.477 ms)
+[2025.02.20-19.29.38:793][553]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-19.29.38:793][553]LogContentValidation: Enabled validators:
+[2025.02.20-19.29.38:793][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-19.29.38:793][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-19.29.38:793][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-19.29.38:793][553]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-19.29.38:793][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-19.29.38:793][553]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-19.29.38:794][553]AssetCheck: /Game/ABP_Character Validating asset
+[2025.02.20-19.29.41:579][742]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] Entry node  New State Machine  is not connected to state
+[2025.02.20-19.29.41:580][742]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] There was no entry state connection in  New State Machine
+[2025.02.20-19.29.41:608][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.02.20-19.30.37:687][ 54]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.02.20-19.30.41:445][313]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3929.620361
+[2025.02.20-19.30.41:537][320]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-19.30.41:537][320]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3929.700195, Update Interval: 309.831238
+[2025.02.20-19.30.56:658][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-19.30.56:708][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Character] ([2] browsable assets)...
+[2025.02.20-19.30.56:719][407]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Character.BP_Character]
+[2025.02.20-19.30.56:719][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Character]
+[2025.02.20-19.30.56:719][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Character" FILE="../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/BP_Character.uasset" SILENT=true
+[2025.02.20-19.30.56:727][407]LogSavePackage: Moving output files for package: /Game/BP_Character
+[2025.02.20-19.30.56:730][407]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/BP_CharacterAAE10FA64947A695FDC776A45B86E7B5.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/BP_Character.uasset'
+[2025.02.20-19.30.56:745][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.416 ms (total: 712.894 ms)
+[2025.02.20-19.30.56:809][407]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-19.30.56:809][407]LogContentValidation: Enabled validators:
+[2025.02.20-19.30.56:809][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-19.30.56:809][407]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-19.30.56:809][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-19.30.56:809][407]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-19.30.56:809][407]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-19.30.56:809][407]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-19.30.56:810][407]AssetCheck: /Game/BP_Character Validating asset
+[2025.02.20-19.30.57:361][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.02.20-19.31.05:138][ 84]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.20-19.31.05:162][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.20-19.31.05:198][ 84]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_main
+[2025.02.20-19.31.05:210][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012314s)
+[2025.02.20-19.31.05:211][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main.main to /Game/UEDPIE_0_main.main (0.012793s)
+[2025.02.20-19.31.05:224][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.02.20-19.31.05:228][ 84]LogChaosDD: Creating Chaos Debug Draw Scene for world main
+[2025.02.20-19.31.05:249][ 84]LogPlayLevel: PIE: World Init took: (0.020774s)
+[2025.02.20-19.31.05:250][ 84]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.02.20-19.31.05:253][ 84]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.20-19.31.05:253][ 84]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.20-19.31.05:253][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.20-19.31.05:253][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.20-19.31.05:253][ 84]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.20-19.31.05:253][ 84]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.20-19.31.05:253][ 84]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.20-19.31.05:253][ 84]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.20-19.31.05:255][ 84]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.20-19.31.05:255][ 84]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.20-19.31.05:255][ 84]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.20-19.31.05:264][ 84]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.20-19.31.05:338][ 84]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.02.20-19.31.05:341][ 84]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.20-19.31.05:341][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.20-19.31.05:342][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.20-19.31.05:346][ 84]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.02.20-19.31.05:346][ 84]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.02.20-19.31.05:348][ 84]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.02.20-19.31.05:348][ 84]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.02.20-19.31.05:349][ 84]LogInit: FAudioDevice initialized with ID 4.
+[2025.02.20-19.31.05:349][ 84]LogAudio: Display: Audio Device (ID: 4) registered with world 'main'.
+[2025.02.20-19.31.05:351][ 84]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.02.20-19.31.05:376][ 84]LogLoad: Game class is 'GM_ACNH_C'
+[2025.02.20-19.31.05:380][ 84]LogWorld: Bringing World /Game/UEDPIE_0_main.main up for play (max tick rate 0) at 2025.02.20-14.31.05
+[2025.02.20-19.31.05:381][ 84]LogWorld: Bringing up level for play took: 0.005281
+[2025.02.20-19.31.05:399][ 84]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.02.20-19.31.05:441][ 84]PIE: Server logged in
+[2025.02.20-19.31.05:442][ 84]PIE: Play in editor total start time 0,29 seconds.
+[2025.02.20-19.31.14:871][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-19.31.14:871][ 54]LogWorld: BeginTearingDown for /Game/UEDPIE_0_main
+[2025.02.20-19.31.14:873][ 54]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-19.31.14:875][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-19.31.14:887][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.20-19.31.14:891][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-19.31.14:903][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-19.31.14:905][ 54]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.02.20-19.31.14:907][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.02.20-19.31.14:909][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.02.20-19.31.14:937][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.02.20-19.31.15:008][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.02.20-19.31.59:011][907]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.20-19.31.59:018][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.20-19.31.59:044][907]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_main
+[2025.02.20-19.31.59:045][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001440s)
+[2025.02.20-19.31.59:045][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main.main to /Game/UEDPIE_0_main.main (0.001485s)
+[2025.02.20-19.31.59:060][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.02.20-19.31.59:063][907]LogChaosDD: Creating Chaos Debug Draw Scene for world main
+[2025.02.20-19.31.59:064][907]LogPlayLevel: PIE: World Init took: (0.002339s)
+[2025.02.20-19.31.59:065][907]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.02.20-19.31.59:065][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.20-19.31.59:065][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.20-19.31.59:065][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.20-19.31.59:065][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.20-19.31.59:065][907]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.20-19.31.59:065][907]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.20-19.31.59:065][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.20-19.31.59:065][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.20-19.31.59:065][907]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.20-19.31.59:065][907]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.20-19.31.59:065][907]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.20-19.31.59:067][907]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.20-19.31.59:133][907]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.02.20-19.31.59:134][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.20-19.31.59:134][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.20-19.31.59:134][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.20-19.31.59:134][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.02.20-19.31.59:134][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.02.20-19.31.59:136][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.02.20-19.31.59:137][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.02.20-19.31.59:137][907]LogInit: FAudioDevice initialized with ID 5.
+[2025.02.20-19.31.59:137][907]LogAudio: Display: Audio Device (ID: 5) registered with world 'main'.
+[2025.02.20-19.31.59:137][907]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.02.20-19.31.59:140][907]LogLoad: Game class is 'GM_ACNH_C'
+[2025.02.20-19.31.59:141][907]LogWorld: Bringing World /Game/UEDPIE_0_main.main up for play (max tick rate 0) at 2025.02.20-14.31.59
+[2025.02.20-19.31.59:141][907]LogWorld: Bringing up level for play took: 0.000927
+[2025.02.20-19.31.59:143][907]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.02.20-19.31.59:146][907]PIE: Server logged in
+[2025.02.20-19.31.59:147][907]PIE: Play in editor total start time 0,129 seconds.
+[2025.02.20-19.32.06:225][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-19.32.06:225][678]LogWorld: BeginTearingDown for /Game/UEDPIE_0_main
+[2025.02.20-19.32.06:225][678]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-19.32.06:225][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-19.32.06:232][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.20-19.32.06:235][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-19.32.06:249][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-19.32.06:249][678]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.02.20-19.32.06:249][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.02.20-19.32.06:251][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.02.20-19.32.06:259][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.02.20-19.32.06:324][679]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.02.20-19.35.13:563][653]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.02.20-19.36.39:082][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4287.242188
+[2025.02.20-19.36.40:082][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-19.36.40:083][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4287.909180, Update Interval: 327.799927
+[2025.02.20-19.37.36:421][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-19.37.36:479][858]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ABP_Character] ([2] browsable assets)...
+[2025.02.20-19.37.36:490][858]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_Character.ABP_Character]
+[2025.02.20-19.37.36:490][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_Character]
+[2025.02.20-19.37.36:490][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Character" FILE="../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset" SILENT=true
+[2025.02.20-19.37.36:498][858]LogSavePackage: Moving output files for package: /Game/ABP_Character
+[2025.02.20-19.37.36:499][858]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/ABP_CharacterC13C724542B4345FE38FCD9A6E5275D1.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset'
+[2025.02.20-19.37.36:510][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.824 ms (total: 800.719 ms)
+[2025.02.20-19.37.36:575][858]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-19.37.36:575][858]LogContentValidation: Enabled validators:
+[2025.02.20-19.37.36:575][858]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-19.37.36:575][858]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-19.37.36:575][858]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-19.37.36:575][858]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-19.37.36:575][858]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-19.37.36:575][858]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-19.37.36:575][858]AssetCheck: /Game/ABP_Character Validating asset
+[2025.02.20-19.37.37:027][879]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] Entry node  New State Machine  is not connected to state
+[2025.02.20-19.37.37:027][879]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] There was no entry state connection in  New State Machine
+[2025.02.20-19.37.37:056][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.02.20-19.37.37:068][879]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_88
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:070][879]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Character_C_0
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:102][880]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Character_C_0
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:137][881]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_89
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:138][881]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Character_C_0
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:153][882]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Character_C_0
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:166][883]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Character_C_0
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:183][884]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Character_C_0
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:197][885]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Character_C_0
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:211][886]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Character_C_0
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:224][887]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Character_C_0
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:238][888]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Character_C_0
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:253][889]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Character_C_0
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:267][890]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Character_C_0
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:282][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Character_C_0
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:297][892]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Character_C_0
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:310][893]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Character_C_0
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.37.37:324][894]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Character_C_0
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.38.03:689][664]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Walking.Walking
+[2025.02.20-19.38.03:814][664]LogChaosDD: Creating Chaos Debug Draw Scene for world World_18
+[2025.02.20-19.38.03:880][664]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-19.38.03:880][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-19.38.03:936][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.02.20-19.42.05:809][ 27]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_90
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.42.05:809][ 27]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_90
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.42.05:895][ 32]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_91
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.42.05:895][ 32]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_91
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.42.07:573][134]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] Entry node  New State Machine  is not connected to state
+[2025.02.20-19.42.07:574][134]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] There was no entry state connection in  New State Machine
+[2025.02.20-19.42.07:604][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.02.20-19.42.07:617][134]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_92
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.42.07:688][136]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_93
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.42.57:220][838]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4665.378906
+[2025.02.20-19.42.58:220][841]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-19.42.58:220][841]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4666.045898, Update Interval: 327.160858
+[2025.02.20-19.43.14:946][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.02.20-19.43.14:948][891]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/main' took 0.017
+[2025.02.20-19.43.14:950][891]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ABP_Character] ([2] browsable assets)...
+[2025.02.20-19.43.14:950][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_94
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.43.15:073][891]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_Character.ABP_Character]
+[2025.02.20-19.43.15:073][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_Character]
+[2025.02.20-19.43.15:081][891]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ABP_Character_Auto6
+[2025.02.20-19.43.15:081][891]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/ABP_Character_Auto69CBC64EC48CA2BE07926319FC2025090.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/Autosaves/Game/ABP_Character_Auto6.uasset'
+[2025.02.20-19.43.15:082][891]LogFileHelpers: Auto-saving content packages took 0.133
+[2025.02.20-19.43.15:213][892]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_95
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.44.15:287][220]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_96
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.44.15:287][220]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_96
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.44.15:361][223]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_97
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.44.15:361][223]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_97
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.44.15:889][258]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_98
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.44.15:889][258]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_98
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.44.15:917][259]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_99
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.44.15:917][259]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_99
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.44.34:903][310]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_100
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.44.34:903][310]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_100
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.44.34:972][314]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_101
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.44.34:972][314]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_101
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.45.05:408][628]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_102
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.45.05:408][628]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_102
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.45.05:476][630]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_103
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.45.05:476][630]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_103
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.45.07:230][751]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_104
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.45.07:230][751]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_104
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.45.07:293][754]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_105
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.45.07:293][754]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_105
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.45.14:817][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_106
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.45.14:817][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_106
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.45.14:879][ 54]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_107
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.45.14:879][ 54]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_107
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.47.39:776][770]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_108
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.47.39:777][770]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_108
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.47.39:837][772]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_109
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.47.39:837][772]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_109
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.13:274][856]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_110
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.13:274][856]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_110
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.13:317][858]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_111
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.13:318][858]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_111
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.23:758][560]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_112
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.23:759][560]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_112
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.23:788][561]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_113
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.23:788][561]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_113
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.26:569][736]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_114
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.26:569][736]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_114
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.26:637][740]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_115
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.26:637][740]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_115
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.33:025][170]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_116
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.33:025][170]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_116
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.33:066][172]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_117
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.33:066][172]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_117
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0040
+[2025.02.20-19.48.53:637][842]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] Entry node  New State Machine  is not connected to state
+[2025.02.20-19.48.53:639][842]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] There was no entry state connection in  New State Machine
+[2025.02.20-19.48.53:676][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.02.20-19.48.53:686][842]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_118
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.48.53:774][843]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_119
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.48.54:882][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-19.48.54:954][900]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ABP_Character] ([2] browsable assets)...
+[2025.02.20-19.48.54:954][900]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_120
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.48.54:970][900]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_Character.ABP_Character]
+[2025.02.20-19.48.54:970][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_Character]
+[2025.02.20-19.48.54:970][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Character" FILE="../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset" SILENT=true
+[2025.02.20-19.48.54:980][900]LogSavePackage: Moving output files for package: /Game/ABP_Character
+[2025.02.20-19.48.54:981][900]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/ABP_CharacterFEC1CD3448FAE186AB9AE6B564BABF1A.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset'
+[2025.02.20-19.48.54:992][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.647 ms (total: 910.367 ms)
+[2025.02.20-19.48.55:051][900]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-19.48.55:051][900]LogContentValidation: Enabled validators:
+[2025.02.20-19.48.55:051][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-19.48.55:051][900]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-19.48.55:051][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-19.48.55:051][900]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-19.48.55:051][900]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-19.48.55:051][900]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-19.48.55:052][900]AssetCheck: /Game/ABP_Character Validating asset
+[2025.02.20-19.48.55:078][901]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_121
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.48.57:490][ 68]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_122
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.48.57:490][ 68]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_122
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.48.57:552][ 71]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_123
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.48.57:552][ 71]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_123
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.17:686][452]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_124
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.17:686][452]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_124
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.17:748][454]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_125
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.17:749][454]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_125
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.18:178][483]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5046.371094
+[2025.02.20-19.49.18:278][490]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-19.49.18:278][490]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5046.457031, Update Interval: 333.415924
+[2025.02.20-19.49.45:985][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_126
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.45:985][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_126
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.46:060][377]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_127
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.46:061][377]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_127
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.47:467][465]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_128
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.47:468][465]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_128
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.47:569][471]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_129
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.47:569][471]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_129
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.49:923][623]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_130
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.49:923][623]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_130
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.49:983][625]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_131
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.49:983][625]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_131
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.55:287][965]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_132
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.55:287][965]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_132
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.55:328][966]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_133
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.55:328][966]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_133
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.57:979][138]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_134
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.57:979][138]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_134
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.58:005][139]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_135
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.58:006][139]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_135
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.59:462][228]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_136
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.59:462][228]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_136
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.59:544][233]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_137
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.49.59:544][233]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_137
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:003E
+[2025.02.20-19.50.09:480][630]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] Entry node  New State Machine  is not connected to state
+[2025.02.20-19.50.09:481][630]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] There was no entry state connection in  New State Machine
+[2025.02.20-19.50.09:511][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.02.20-19.50.09:523][630]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_138
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.50.09:573][632]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_139
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.50.10:138][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-19.50.10:213][671]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ABP_Character] ([2] browsable assets)...
+[2025.02.20-19.50.10:214][671]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_140
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.50.10:224][671]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_Character.ABP_Character]
+[2025.02.20-19.50.10:224][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_Character]
+[2025.02.20-19.50.10:224][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Character" FILE="../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset" SILENT=true
+[2025.02.20-19.50.10:235][671]LogSavePackage: Moving output files for package: /Game/ABP_Character
+[2025.02.20-19.50.10:237][671]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/ABP_Character9B72244349FD7EE937017EA0DB120EE3.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset'
+[2025.02.20-19.50.10:246][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.975 ms (total: 1.01 sec)
+[2025.02.20-19.50.10:304][671]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-19.50.10:304][671]LogContentValidation: Enabled validators:
+[2025.02.20-19.50.10:304][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-19.50.10:304][671]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-19.50.10:304][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-19.50.10:304][671]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-19.50.10:304][671]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-19.50.10:304][671]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-19.50.10:305][671]AssetCheck: /Game/ABP_Character Validating asset
+[2025.02.20-19.50.10:346][673]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_141
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.50.14:488][959]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-19.50.14:553][959]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ABP_Character] ([2] browsable assets)...
+[2025.02.20-19.50.14:553][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_Character]
+[2025.02.20-19.50.14:553][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Character" FILE="../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset" SILENT=true
+[2025.02.20-19.50.14:563][959]LogSavePackage: Moving output files for package: /Game/ABP_Character
+[2025.02.20-19.50.14:564][959]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/ABP_CharacterEF8298C54F2C336E8B9EAD8E8E8F064E.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset'
+[2025.02.20-19.50.14:574][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.556 ms (total: 1.10 sec)
+[2025.02.20-19.50.14:635][959]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-19.50.14:635][959]LogContentValidation: Enabled validators:
+[2025.02.20-19.50.14:635][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-19.50.14:635][959]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-19.50.14:635][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-19.50.14:635][959]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-19.50.14:635][959]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-19.50.14:635][959]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-19.50.14:635][959]AssetCheck: /Game/ABP_Character Validating asset
+[2025.02.20-19.50.14:674][961]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_142
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.50.14:971][980]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] Entry node  New State Machine  is not connected to state
+[2025.02.20-19.50.14:972][980]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] There was no entry state connection in  New State Machine
+[2025.02.20-19.50.15:008][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.02.20-19.50.15:020][980]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_143
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.50.15:063][981]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_144
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.50.18:181][232]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.20-19.50.18:190][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.20-19.50.18:191][232]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_main
+[2025.02.20-19.50.18:193][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001902s)
+[2025.02.20-19.50.18:193][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main.main to /Game/UEDPIE_0_main.main (0.001964s)
+[2025.02.20-19.50.18:205][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.02.20-19.50.18:208][232]LogChaosDD: Creating Chaos Debug Draw Scene for world main
+[2025.02.20-19.50.18:209][232]LogPlayLevel: PIE: World Init took: (0.001768s)
+[2025.02.20-19.50.18:210][232]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.02.20-19.50.18:210][232]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.20-19.50.18:210][232]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.20-19.50.18:210][232]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.20-19.50.18:210][232]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.20-19.50.18:210][232]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.20-19.50.18:210][232]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.20-19.50.18:210][232]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.20-19.50.18:210][232]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.20-19.50.18:210][232]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.20-19.50.18:210][232]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.20-19.50.18:210][232]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.20-19.50.18:214][232]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.20-19.50.18:279][232]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.02.20-19.50.18:280][232]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.20-19.50.18:280][232]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.20-19.50.18:280][232]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.20-19.50.18:280][232]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.02.20-19.50.18:280][232]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.02.20-19.50.18:283][232]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.02.20-19.50.18:283][232]LogInit: FAudioDevice initialized with ID 6.
+[2025.02.20-19.50.18:283][232]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.02.20-19.50.18:283][232]LogAudio: Display: Audio Device (ID: 6) registered with world 'main'.
+[2025.02.20-19.50.18:283][232]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.02.20-19.50.18:291][232]LogLoad: Game class is 'GM_ACNH_C'
+[2025.02.20-19.50.18:292][232]LogWorld: Bringing World /Game/UEDPIE_0_main.main up for play (max tick rate 0) at 2025.02.20-14.50.18
+[2025.02.20-19.50.18:293][232]LogWorld: Bringing up level for play took: 0.001088
+[2025.02.20-19.50.18:295][232]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.02.20-19.50.18:298][232]PIE: Server logged in
+[2025.02.20-19.50.18:299][232]PIE: Play in editor total start time 0,11 seconds.
+[2025.02.20-19.50.30:739][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-19.50.30:739][557]LogWorld: BeginTearingDown for /Game/UEDPIE_0_main
+[2025.02.20-19.50.30:739][557]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-19.50.30:740][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-19.50.30:745][557]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.20-19.50.30:748][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-19.50.30:759][557]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.20-19.50.30:759][557]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.02.20-19.50.30:759][557]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.02.20-19.50.30:761][557]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.02.20-19.50.30:766][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-19.50.30:769][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.02.20-19.50.30:838][558]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.02.20-19.50.40:190][249]Cmd: EDIT CUT
+[2025.02.20-19.50.40:228][249]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.20-19.50.40:242][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.02.20-19.50.40:244][249]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.02.20-19.50.40:937][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-19.50.41:007][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main" FILE="../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.20-19.50.41:044][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.02.20-19.50.41:052][320]LogSavePackage: Moving output files for package: /Game/main
+[2025.02.20-19.50.41:053][320]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/main2CDB572543FDB3EA0CF575B8068F272F.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/main.umap'
+[2025.02.20-19.50.41:073][320]LogFileHelpers: Saving map 'main' took 0.066
+[2025.02.20-19.50.41:082][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.397 ms (total: 1.24 sec)
+[2025.02.20-19.50.41:155][320]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-19.50.41:155][320]LogContentValidation: Enabled validators:
+[2025.02.20-19.50.41:155][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-19.50.41:155][320]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-19.50.41:155][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-19.50.41:155][320]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-19.50.41:155][320]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-19.50.41:155][320]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-19.50.41:155][320]AssetCheck: /Game/main Validating asset
+[2025.02.20-19.51.02:457][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-19.51.02:527][900]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ABP_Character] ([2] browsable assets)...
+[2025.02.20-19.51.02:527][900]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_145
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.51.02:537][900]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_Character.ABP_Character]
+[2025.02.20-19.51.02:539][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_Character]
+[2025.02.20-19.51.02:539][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Character" FILE="../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset" SILENT=true
+[2025.02.20-19.51.02:548][900]LogSavePackage: Moving output files for package: /Game/ABP_Character
+[2025.02.20-19.51.02:549][900]LogSavePackage: Moving '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Saved/ABP_Character207E34CD4E6AF2650D18F89D3F579FCE.tmp' to '../../../../../../Users/f.simonian/Documents/GitHub/fionaprojetsemestre/projetsemestre/Content/ABP_Character.uasset'
+[2025.02.20-19.51.02:565][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.712 ms (total: 1.35 sec)
+[2025.02.20-19.51.02:621][900]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-19.51.02:622][900]LogContentValidation: Enabled validators:
+[2025.02.20-19.51.02:622][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-19.51.02:622][900]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-19.51.02:622][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-19.51.02:622][900]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-19.51.02:622][900]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-19.51.02:622][900]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-19.51.02:622][900]AssetCheck: /Game/ABP_Character Validating asset
+[2025.02.20-19.51.02:661][902]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_146
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.51.44:658][256]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] Entry node  New State Machine  is not connected to state
+[2025.02.20-19.51.44:659][256]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] There was no entry state connection in  New State Machine
+[2025.02.20-19.51.44:691][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.02.20-19.51.44:715][256]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_147
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.51.44:800][258]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_148
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.52.01:089][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.02.20-19.52.04:497][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.02.20-19.52.25:969][204]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] Entry node  New State Machine  is not connected to state
+[2025.02.20-19.52.25:970][204]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] There was no entry state connection in  New State Machine
+[2025.02.20-19.52.26:000][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.02.20-19.52.26:033][204]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_149
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.52.26:183][206]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_150
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.52.36:106][427]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] Entry node  New State Machine  is not connected to state
+[2025.02.20-19.52.36:107][427]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] There was no entry state connection in  New State Machine
+[2025.02.20-19.52.36:139][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.02.20-19.52.36:148][427]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_151
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.52.36:230][428]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_152
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.53.18:145][812]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] Entry node  New State Machine  is not connected to state
+[2025.02.20-19.53.18:145][812]LogBlueprint: Warning: [AssetLog] C:\Users\f.simonian\Documents\GitHub\fionaprojetsemestre\projetsemestre\Content\ABP_Character.uasset: [Compiler] There was no entry state connection in  New State Machine
+[2025.02.20-19.53.18:179][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.02.20-19.53.18:187][812]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_153
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.53.18:273][813]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Character_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_154
+	Function /Game/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0087
+[2025.02.20-19.55.34:423][832]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5422.628418
+[2025.02.20-19.55.35:422][835]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-19.55.35:422][835]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5423.293945, Update Interval: 358.787811
+[2025.02.20-20.02.16:496][ 37]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5824.708984
+[2025.02.20-20.02.17:496][ 41]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-20.02.17:496][ 41]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5825.375977, Update Interval: 319.580078
+[2025.02.20-20.08.16:893][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6185.106934
+[2025.02.20-20.08.17:893][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-20.08.17:893][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6185.773926, Update Interval: 358.108459
+[2025.02.20-20.14.46:632][287]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6574.847168
+[2025.02.20-20.14.47:632][290]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-20.14.47:632][291]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6575.514160, Update Interval: 342.622772
+[2025.02.20-20.21.12:036][443]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6960.262207
+[2025.02.20-20.21.13:038][446]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-20.21.13:038][446]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6960.928711, Update Interval: 320.239258
+[2025.02.20-20.23.37:070][878]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 750...96b
+[2025.02.20-20.23.37:070][878]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.79 RefreshExpires: 1.553e+07
+[2025.02.20-20.23.38:071][881]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 750...96b Access[Expires: 2025.02.20-22.23.37 Remaining: 7200.32] Refresh[Expires: 2025-08-19T15:03:50.267Z Remaining: 15532813.27] State: Valid
+[2025.02.20-20.27.05:104][502]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7313.319824
+[2025.02.20-20.27.06:104][506]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-20.27.06:105][506]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7313.987793, Update Interval: 351.651978
+[2025.02.20-20.27.06:391][506]LogDerivedDataCache: C:/Users/f.simonian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.20-20.33.30:534][658]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7698.745605
+[2025.02.20-20.33.31:511][661]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-20.33.31:511][662]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7699.388184, Update Interval: 315.547974
+[2025.02.20-20.39.17:603][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8045.806152
+[2025.02.20-20.39.17:680][542]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-20.39.17:680][542]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8045.872070, Update Interval: 331.099579
